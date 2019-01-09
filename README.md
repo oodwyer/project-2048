@@ -1,5 +1,7 @@
 # project-2048
 
+This project was completed in Spring 2018.
+
 Begin the game by running Game2048.java
 
 Game2048.java - This file contains the main game function, draws the board, 
